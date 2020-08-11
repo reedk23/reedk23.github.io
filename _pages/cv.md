@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* A.S. Delta College, 2017
+* B.S. Biology, Ferris State University, 2021 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2020: Certified Nursing Assistant
+* 2016 - 2018: Cashier
+* 2015: Server
+ 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Excellent communication skills, ability to comprehend, and willing to help problem solve issues that may come about. A patient listener who focuses on the speaker and understands. Excellent customer service skills. Organized and detail-oriented; knack for understanding procedures and logistics.  Trustworthy, dependable, reliable, honest, confident, and committed to perform the job essentials fully. Excellent knowledge and abilities in Microsoft Word, PowerPoint, and Excel.
+
+
+Service and leadership
+======
+I volunteer for the Red Cross. I am a youth volunteer at the church. I controlled my church media and sound system.
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
