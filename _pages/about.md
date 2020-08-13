@@ -9,12 +9,8 @@ redirect_from:
 ---
 Welcome 
 
-This is the front page of my website that is powered by the
+![Racial Disparity Data Analysis](/images/Screen Shot.png)
 
-A data-driven personal website
-
-![Racial Disparity Data Analysis](/images/bio-photo.png)
-
-[Click here for an exciting and depressing report on racial disparity in the COVID pandemic.](COVID-Research)
+[Report on China vs the rest of the World in this COVID-19 Pandemic.](COVID-Research)
 ------
 
