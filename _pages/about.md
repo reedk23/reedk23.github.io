@@ -9,7 +9,6 @@ redirect_from:
 ---
 Welcome 
 
-![Racial Disparity Data Analysis](/images/Screen Shot.png)
 
 [Report on China vs the rest of the World in this COVID-19 Pandemic.](COVID-Research)
 ------
